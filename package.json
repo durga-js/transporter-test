@@ -1,5 +1,5 @@
 {
-  "name": "transporter-test",
+  "name": "durga-transporter-test",
   "description": "Durga transporter for unit tests",
   "author": [
     {
@@ -10,5 +10,5 @@
   ],
   "version": "0.0.0",
   "dependencies": {},
-  "repository":""
+  "repository":"git@github.com:durga-js/transporter-test.git"
 }
